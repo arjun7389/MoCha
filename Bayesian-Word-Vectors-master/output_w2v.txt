@@ -1,0 +1,74 @@
+
+Word 2 Vec
+
+Nearest to apple: occupy, hastings, lie, deaf, excess, differing, architectural, lennon,
+Nearest to computer: series, references, group, upon, king, throughout, la, r,
+Nearest to radio: how, information, eight, public, east, house, area, london,
+Nearest to president: sir, himself, born, form, forces, place, house, east,
+Nearest to fbi: fbi, potato, dental, termed, regulatory, colonists, withdrawn, rifles,
+Nearest to artificial: belarus, artificial, regions, parody, nomination, engines, monster, harper,
+Nearest to intelligence: earned, ivoire, seek, input, interrupt, charges, opposed, todd,
+Nearest to system: english, through, history, about, de, between, i, within,
+Nearest to corruption: plots, ge, stable, democrat, ballistic, crystalline, formal, retreat,
+Nearest to clinton: involving, photography, auto, producer, translated, stress, psychological, castro,
+
+
+Nearest to apple: sagan, mirrors, mapping, deployment, costello, folk, rejects, numeral,
+Nearest to computer: through, being, though, like, when, about, under, university,
+Nearest to radio: east, water, early, red, show, area, church, began,
+Nearest to president: east, union, water, day, age, k, church, house,
+Nearest to fbi: compositions, bombs, dominance, peaceful, armour, jokes, ambassador, patriarch,
+Nearest to artificial: nationalists, observations, reducing, johnston, disc, egg, lengths, signing,
+Nearest to intelligence: sagan, mirrors, mapping, deployment, costello, folk, rejects, numeral,
+Nearest to system: or, who, while, some, system, under, if, within,
+Nearest to corruption: sagan, mirrors, mapping, deployment, costello, folk, rejects, numeral,
+Nearest to clinton: sagan, mirrors, mapping, deployment, costello, folk, rejects, numeral,
+
+Nearest to apple: veterans, reveal, crop, continuation, finals, convenient, eddie, parish,
+Nearest to computer: within, up, being, many, or, where, called, during,
+Nearest to radio: become, us, council, press, back, u, addition, greek,
+Nearest to president: systems, born, east, house, along, engineering, book, james,
+Nearest to fbi: veterans, reveal, crop, continuation, finals, convenient, eddie, parish,
+Nearest to artificial: veterans, reveal, crop, continuation, finals, convenient, eddie, parish,
+Nearest to intelligence: ready, radioactive, deposed, soon, outline, esoteric, boxes, accept,
+Nearest to system: some, if, using, system, often, while, high, which,
+Nearest to corruption: veterans, reveal, crop, continuation, finals, convenient, eddie, parish,
+Nearest to clinton: veterans, reveal, crop, continuation, finals, convenient, eddie, parish,
+
+
+Nearest to apple: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+Nearest to computer: within, various, if, other, e, its, first, new,
+Nearest to radio: west, along, east, church, area, early, red, word,
+Nearest to president: house, information, series, light, james, red, europe, union,
+Nearest to fbi: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+Nearest to artificial: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+Nearest to intelligence: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+Nearest to system: most, system, more, into, who, high, over, its,
+Nearest to corruption: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+Nearest to clinton: luck, searching, snake, chilean, theatrical, suspension, rna, dukes,
+
+
+
+
+Nearest to apple: certain, us, main, network, new, another, major, especially,
+Nearest to computer: open, format, model, technology, satellite, station, board, hop,
+Nearest to radio: television, satellite, radio, engine, windows, mac, format, online,
+Nearest to president: historian, christopher, killing, rd, nfl, austrian, franklin, frac,
+Nearest to fbi: number, also, man, first, state, used, these, called,
+Nearest to artificial: related, alternative, user, police, models, contain, programs, display,
+Nearest to intelligence: simple, mathematical, multiple, internal, religious, notable, environmental, effects,
+Nearest to system: technologies, strength, search, mechanical, occasionally, resource, equipment, evolutionary,
+Nearest to corruption: example, about, another, world, state, new, although, government,
+Nearest to clinton: new, us, short, later, another, early, state, about,
+
+
+Nearest to apple: certain, national, history, new, studies, then, though, states,
+Nearest to computer: online, radio, science, external, bbc, computer, satellite, technology,
+Nearest to radio: web, radio, model, online, satellite, industry, master, broadcast,
+Nearest to president: governor, france, death, scotland, east, america, married, emperor,
+Nearest to fbi: today, also, see, known, writing, is, term, example,
+Nearest to artificial: memory, computers, treatment, analysis, management, processes, drug, contain,
+Nearest to intelligence: intended, represent, practical, object, quantum, objects, users, advanced,
+Nearest to system: producing, arithmetic, privacy, distributed, intelligent, domain, technologies, moral,
+Nearest to corruption: interest, practice, limited, form, word, act, action, evidence,
+Nearest to clinton: british, post, north, national, indian, southern, us, right,
